@@ -29,12 +29,42 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 </p>
 
 ---
-## 🔥 GitHub Stats
+## 🚀 Skills & Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarimran1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarimran1234&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+### 🧱 Frontend
+
+- **HTML / CSS**
+  <div><img src="https://progress-bar.dev/100/?title=Expert&width=300&color=eb4034" /></div>
+
+- **JavaScript**
+  <div><img src="https://progress-bar.dev/95/?title=Expert&width=300&color=f7df1e" /></div>
+
+- **React / Next.js**
+  <div><img src="https://progress-bar.dev/90/?title=Advanced&width=300&color=61dafb" /></div>
+
+- **TypeScript**
+  <div><img src="https://progress-bar.dev/85/?title=Advanced&width=300&color=3178c6" /></div>
+
+---
+
+### ⚙️ Backend & Database
+
+- **Node.js**
+  <div><img src="https://progress-bar.dev/90/?title=Advanced&width=300&color=3c873a" /></div>
+
+- **Python**
+  <div><img src="https://progress-bar.dev/70/?title=Intermediate&width=300&color=3776ab" /></div>
+
+- **PostgreSQL / MySQL / MongoDB**
+  <div><img src="https://progress-bar.dev/85/?title=Advanced&width=300&color=0064a5" /></div>
+
+---
+
+### 🛒 Shopify App Development
+
+- **Private Apps, Admin API, Storefront API**
+  <div><img src="https://progress-bar.dev/100/?title=Expert&width=300&color=7AB55C" /></div>
+
 
 
 ---
