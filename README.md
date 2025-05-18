@@ -53,7 +53,7 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 
 - 🌐 **Portfolio**: [https://code-sphare-com.vercel.app/](https://code-sphare-com.vercel.app/)
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/umar-imran-4b3889278/](https://www.linkedin.com/in/umar-imran-4b3889278/)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: umartkd989@gmail.com
 
 ---
 
