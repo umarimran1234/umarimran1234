@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/umarimran1234/umarimran1234/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 # 👋 Hi, I'm [Your Name]
 
@@ -33,8 +33,8 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?umarimran1234=umarimran1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?umarimran1234=umarimran1234&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
