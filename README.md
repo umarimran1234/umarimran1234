@@ -29,13 +29,13 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 </p>
 
 ---
-
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?umarimran1234=umarimran1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?umarimran1234=umarimran1234&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umarimran1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarimran1234&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
+
 
 ---
 
