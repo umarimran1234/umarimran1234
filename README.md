@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/umarimran1234/umarimran1234/main/assets/banner.gif" alt="Banner" width="100%"/>
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Muhammed Umar Imran
 
 ### 🚀 Full Stack Developer | 🛒 Shopify App Expert | 🔧 Problem Solver
 
@@ -51,8 +51,8 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 
 ## 📫 Let's Connect!
 
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🌐 **Portfolio**: [https://code-sphare-com.vercel.app/](https://code-sphare-com.vercel.app/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/umar-imran-4b3889278/](https://www.linkedin.com/in/umar-imran-4b3889278/)
 - 📧 **Email**: your.email@example.com
 
 ---
