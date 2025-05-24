@@ -33,19 +33,17 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 
 ### 🧱 Frontend
 
-- **HTML / CSS**
-  <div><img src="https://progress-bar.dev/100/?title=Expert&width=300&color=eb4034" /></div>
+- **HTML / CSS**  
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Expert-red?style=for-the-badge&logo=html5&logoColor=white" />
 
-- **JavaScript**
-  <div><img src="https://progress-bar.dev/95/?title=Expert&width=300&color=f7df1e" /></div>
+- **JavaScript**  
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 
-- **React / Next.js**
-  <div><img src="https://progress-bar.dev/90/?title=Advanced&width=300&color=61dafb" /></div>
+- **React / Next.js**  
+  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=black" />
 
-- **TypeScript**
-  <div><img src="https://progress-bar.dev/85/?title=Advanced&width=300&color=3178c6" /></div>
-
----
+- **TypeScript**  
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### ⚙️ Backend & Database
 
