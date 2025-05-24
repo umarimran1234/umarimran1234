@@ -58,6 +58,12 @@ Welcome to my GitHub! I'm a passionate full-stack developer and Shopify app spec
 
 ---
 
+--- 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarimran1234&theme=light" alt="GitHub Trophies" />
+
+--- 
 ### 🛒 Shopify App Development
 
 - **Private Apps, Admin API, Storefront API**  
