@@ -74,19 +74,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer and Shopify app spec
 | [Blog System](https://github.com/umarimran1234/blog-system) | Markdown-based blog platform with rich UI | Next.js, MongoDB |
 
 ---
-## 📊 Skill Proficiency
-
-| Skill             | Level        |
-|------------------|--------------|
-| HTML / CSS       | ![Expert](https://progress-bar.dev/100/?title=Expert&width=200&color=eb4034) |
-| JavaScript       | ![Expert](https://progress-bar.dev/95/?title=Expert&width=200&color=f7df1e) |
-| React / Next.js  | ![Advanced](https://progress-bar.dev/90/?title=Advanced&width=200&color=61dafb) |
-| TypeScript       | ![Advanced](https://progress-bar.dev/85/?title=Advanced&width=200&color=3178c6) |
-| Node.js          | ![Advanced](https://progress-bar.dev/90/?title=Advanced&width=200&color=3c873a) |
-| Python           | ![Intermediate](https://progress-bar.dev/70/?title=Intermediate&width=200&color=3776ab) |
-| Shopify APIs     | ![Expert](https://progress-bar.dev/100/?title=Expert&width=200&color=7AB55C) |
-
---
 ## 📊 GitHub Stats
 
 <p align="center">
