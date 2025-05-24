@@ -45,20 +45,31 @@ Welcome to my GitHub! I specialize in building full-stack web applications, Shop
 - **TypeScript**  
   <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### ⚙️ Backend & Database
+<h3>⚙️ Backend & Database</h3>
 
-- **Node.js**
-  <div><img src="https://progress-bar.dev/90/?title=Advanced&width=300&color=3c873a" /></div>
+<div style="font-weight:bold">Node.js</div>
+<div style="background:#eee;width:300px;border-radius:8px">
+  <div style="width:90%;background:#3c873a;color:white;padding:4px 0;border-radius:8px;text-align:center">Advanced</div>
+</div>
 
-- **Python**
-  <div><img src="https://progress-bar.dev/70/?title=Intermediate&width=300&color=3776ab" /></div>
+<div style="font-weight:bold">Python</div>
+<div style="background:#eee;width:300px;border-radius:8px">
+  <div style="width:70%;background:#3776ab;color:white;padding:4px 0;border-radius:8px;text-align:center">Intermediate</div>
+</div>
 
-- **PostgreSQL / MySQL / MongoDB**
-  <div><img src="https://progress-bar.dev/85/?title=Advanced&width=300&color=0064a5" /></div>
+<div style="font-weight:bold">PostgreSQL / MySQL / MongoDB</div>
+<div style="background:#eee;width:300px;border-radius:8px">
+  <div style="width:85%;background:#0064a5;color:white;padding:4px 0;border-radius:8px;text-align:center">Advanced</div>
+</div>
 
----
+<hr/>
 
-### 🛒 Shopify App Development
+<h3>🛒 Shopify App Development</h3>
+
+<div style="font-weight:bold">Private Apps, Admin API, Storefront API</div>
+<div style="background:#eee;width:300px;border-radius:8px">
+  <div style="width:100%;background:#7AB55C;color:white;padding:4px 0;border-radius:8px;text-align:center">Expert</div>
+</div>
 
 - **Private Apps, Admin API, Storefront API**
   <div><img src="https://progress-bar.dev/100/?title=Expert&width=300&color=7AB55C" /></div>
