@@ -1,105 +1,64 @@
-<!-- 🌐 GitHub Profile Banner -->
-<img src="https://raw.githubusercontent.com/umarimran1234/umarimran1234/main/assets/banner.gif" alt="Muhammed Umar Imran - GitHub Banner showing Full-Stack Skills" width="100%"/>
+# Muhammed Umar Imran
 
-# 👋 Hi, I'm Muhammed Umar Imran
+**Full-stack developer · Shopify apps · Automation · AI integrations**
+Based in Pakistan · Working remotely with US teams
 
-### 🚀 Full-Stack Developer | Shopify App Expert | React, Node.js & AI-Powered Solutions
-
-Welcome to my GitHub! I'm a passionate full-stack developer and Shopify app specialist. I build scalable web platforms, mobile apps, and automation tools using modern frameworks like React, Next.js, Remix, Node.js, and AI APIs.
+I build production web apps and Shopify apps with React and TypeScript, and I automate business workflows with n8n and AI APIs. I like owning a feature end to end: scoping it, building it, shipping it and improving it from real usage.
 
 ---
 
-## 🧠 Tech Stack
+## What I'm doing now
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+- **Technical Product Manager at DEVNZO** (US company, remote). I joined in 2025 as a Shopify App Developer and moved up to Full Stack Engineer, then to Technical Product Manager.
+- **Full Stack Engineer at Startstorez.**
+- **Founder of CodeSphere Innovation**, an IT services company building websites, apps and automation for businesses.
+- **Co-founder of Assosiatix**, building Shopify apps.
+- **Verified n8n Creator**, publishing automation workflows.
+- Studying BS Computer Science at Virtual University of Pakistan.
 
 ---
 
-## 🚀 Skills & Expertise
+## What I build
 
-### 🧱 Frontend Development
+| Area | What I do |
+|------|-----------|
+| **Shopify apps** | Admin and storefront apps with Polaris, Remix / React Router, Prisma and the Shopify Billing API. Examples include COD and delivery automation, review widgets and SEO audit tools. |
+| **Web apps** | React, Next.js and TypeScript front ends, with Node.js APIs on PostgreSQL, MySQL or MongoDB. |
+| **Automation** | n8n workflows, WhatsApp and Instagram automation, and integrations between business tools. |
+| **AI features** | LLM-powered features built on the OpenAI API and Agents SDK. |
 
-- **HTML / CSS**  
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Expert-red?style=for-the-badge&logo=html5&logoColor=white" />
-
-- **JavaScript**  
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-
-- **React / Next.js**  
-  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-
-- **TypeScript**  
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-### ⚙️ Backend & Databases
-
-- **Node.js**  
-  <img src="https://img.shields.io/badge/Node.js-Advanced-3c873a?style=for-the-badge&logo=node.js&logoColor=white" />
-
-- **Python**  
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-
-- **PostgreSQL / MySQL / MongoDB**  
-  <img src="https://img.shields.io/badge/Databases-Advanced-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+> Most of my client and company work is private, so it isn't listed here. I'm happy to walk through architecture and decisions on a call.
 
 ---
 
---- 
-## 🏆 GitHub Trophies
+## Public work
 
-<img src="https://github-profile-trophy.vercel.app/?username=umarimran1234&theme=light" alt="GitHub Trophies" />
-
---- 
-### 🛒 Shopify App Development
-
-- **Private Apps, Admin API, Storefront API**  
-  <img src="https://img.shields.io/badge/Shopify%20App%20Dev-Expert-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+- **[umarskills](https://github.com/umarimran1234/umarskills)** is a collection of Claude skills I share with my community.
+- **[@stars-storez/polaris-react-wc](https://www.npmjs.com/package/@stars-storez/polaris-react-wc)** is an npm package, a React wrapper around Shopify Polaris Web Components.
 
 ---
 
-## 📂 Featured Projects
+## Tech stack
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Shopify ERP App](https://github.com/umarimran1234/shopify-erp-app) | Custom ERP system for Shopify stores with business tools | Node.js, React, PostgreSQL |
-| [AI Business Assistant](https://github.com/umarimran1234/ai-business-assistant) | AI-powered mobile app for freelancers & sellers | React Native, OpenAI API |
-| [Blog System](https://github.com/umarimran1234/blog-system) | Markdown-based blog platform with rich UI | Next.js, MongoDB |
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarimran1234&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=umarimran1234&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarimran1234&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📫 Let's Connect!
+## Work with me
 
-- 🌐 **Portfolio**: [https://codesphere-com.vercel.app/](https://codesphere-com.vercel.app/)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/umar-imran-4b3889278/](https://www.linkedin.com/in/umar-imran-4b3889278/)
-- 📧 **Email**: [umartkd989@gmail.com](mailto:umartkd989@gmail.com)
+I take on freelance projects: Shopify apps, custom web apps and workflow automation.
 
----
-
-> _"The best way to predict the future is to invent it."_ – Alan Kay
-
-⭐ If you like my work, give it a ⭐ — it really helps!
+- Portfolio: [codesphere-com.vercel.app](https://codesphere-com.vercel.app/)
+- LinkedIn: [linkedin.com/in/umar-imran-4b3889278](https://www.linkedin.com/in/umar-imran-4b3889278/)
+- Email: [umartkd989@gmail.com](mailto:umartkd989@gmail.com)
